@@ -3,10 +3,11 @@ package main
 import (
 	"log"
 	"os"
-	"tg/internal/UI/tgbot"
-	"tg/internal/repository"
-	"tg/internal/service"
 	"time"
+
+	"github.com/Ksenofontovas/garantex-notify-bot/internal/UI/tgbot"
+	"github.com/Ksenofontovas/garantex-notify-bot/internal/repository"
+	"github.com/Ksenofontovas/garantex-notify-bot/internal/service"
 
 	"github.com/joho/godotenv"
 )

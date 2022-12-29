@@ -1,8 +1,9 @@
 package service
 
 import (
-	"tg"
-	"tg/internal/repository"
+	"github.com/Ksenofontovas/garantex-notify-bot/internal/repository"
+
+	tg "github.com/Ksenofontovas/garantex-notify-bot"
 )
 
 type Notify interface {

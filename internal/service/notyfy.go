@@ -1,6 +1,6 @@
 package service
 
-import "tg/internal/repository"
+import "github.com/Ksenofontovas/garantex-notify-bot/internal/repository"
 
 type NotifyService struct {
 	repo repository.Notify

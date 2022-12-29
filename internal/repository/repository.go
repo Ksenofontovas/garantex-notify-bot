@@ -1,8 +1,9 @@
 package repository
 
 import (
-	"tg"
 	"time"
+
+	tg "github.com/Ksenofontovas/garantex-notify-bot"
 
 	"github.com/recoilme/pudge"
 )

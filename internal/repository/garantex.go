@@ -5,8 +5,9 @@ import (
 	"fmt"
 	"io/ioutil"
 	"net/http"
-	"tg"
 	"time"
+
+	tg "github.com/Ksenofontovas/garantex-notify-bot"
 )
 
 const (

@@ -1,8 +1,9 @@
 package service
 
 import (
-	"tg"
-	"tg/internal/repository"
+	tg "github.com/Ksenofontovas/garantex-notify-bot"
+
+	"github.com/Ksenofontovas/garantex-notify-bot/internal/repository"
 )
 
 type GarantexService struct {

@@ -5,7 +5,8 @@ import (
 	"log"
 	"math"
 	"strconv"
-	"tg/internal/service"
+
+	"github.com/Ksenofontovas/garantex-notify-bot/internal/service"
 
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
